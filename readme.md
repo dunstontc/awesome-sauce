@@ -100,6 +100,9 @@
   - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
 
 ## CSS
+
+> Some of these are pretty handy
+
   - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
   - [SVGOMG](https://jakearchibald.github.io/svgomg/)
   - [Vivus Instant](https://maxwellito.github.io/vivus-instant/)
@@ -107,11 +110,17 @@
 
 
 ## Reference
+
+> Good things to know
+
   - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
   - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
   - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
 ## Hosting:
+
+> Host your code online.  Most of these have free options. 
+
   - [Amazon Web Services](https://aws.amazon.com/free/)
   - [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/)
   - [Heroku](https://www.heroku.com/pricing)

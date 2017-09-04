@@ -29,10 +29,7 @@
 
 ## REPLs
 
-> &nbsp;  
-> Write code online, run code online.  
-> &nbsp;  
-
+> Write code online, run code online.
 
 ### Assorted:
   - [DartPad](https://dartpad.dartlang.org/fb763a4a770b5cdd896982e10ccf4118)
@@ -99,7 +96,8 @@
 
 
 ### APIs:
-
+  - [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/)
+  - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
 
 ## CSS
   - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
@@ -110,6 +108,7 @@
 
 ## Reference
   - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+  - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
   - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
 ## Hosting:

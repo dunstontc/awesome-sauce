@@ -10,7 +10,7 @@
   - [Tools](#tools)
   - [Reference](#reference)
   - [Hosting](#hosting)
-  - [Integration](#integration)
+  - [APIs](#apis)
   - [Docs](#docs)
 
 ## Misc
@@ -18,12 +18,13 @@
 > These are on my todo list, I'll sort them at some point.
 
   - [Awesome Lists](https://github.com/sindresorhus/awesome)
-  - [Free for Developers](https://github.com/ripienaar/free-for-dev)
+  - [free-for-dev](https://github.com/ripienaar/free-for-dev)
+    - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
   - [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
   - [Google Open Source](https://opensource.google.com/)
   - [Django Girls](https://tutorial.djangogirls.org/en/index.html)
-  - [GitBook](https://github.com/GitbookIO/gitbook)
   - [AutoDraw](https://www.autodraw.com/)
+    - [chrome/autodraw](https://experiments.withgoogle.com/chrome/autodraw)
   - [glot.io](https://glot.io/)
     - An open source pastebin with runnable snippets and API.
   - [Microsoft/monaco-editor](https://microsoft.github.io/monaco-editor/monarch.html)
@@ -32,12 +33,14 @@
   - [Hotel](https://github.com/typicode/hotel)
     - 🏩  A simple process manager for developers. Start apps from your browser and access them using local .dev domains
   - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
+  - [sparkpost](https://www.sparkpost.com/pricing/#developer-plan)
+    - Email Service
 
 ## REPLs
 
 > Write code online, run code online.
 
-### Everything
+### Everything:
   - [repl.it](https://repl.it/languages)
   - [Fiddle Salad](http://fiddlesalad.com/) (front-end languages)
 
@@ -110,6 +113,7 @@
 ### APIs:
   - [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/)
   - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
+  - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
 
 ## Tools
 
@@ -117,13 +121,16 @@
 
   - [DevOtter](https://devotter.com/)
     - Free Online Developer Tools
+  - [Icons for everything](https://thenounproject.com/)
   - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
   - [SVGOMG](https://jakearchibald.github.io/svgomg/)
     - Optimize your SVGs
   - [Vivus Instant](https://maxwellito.github.io/vivus-instant/)
     - SVG drawing animation
-
-
+  - [goo.gl](https://developers.google.com/url-shortener/)
+    - url-shortener
+  - [Pexels](https://www.pexels.com/)
+    - Free stock photos
 ## Reference
 
 > Good things to know
@@ -133,7 +140,7 @@
   - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
   - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
-## Hosting:
+## Hosting
 
 > Host your code online.  Most of these have free options. 
 
@@ -148,19 +155,60 @@
   - [Digital Ocean](https://www.digitalocean.com/pricing/#droplet)
   - [Docker](https://www.docker.com/pricing)
 
-## Integration:
+### Services:
+  - [Sandbox](https://getsandbox.com/pricing)
+    - (API Hosting)
+  - [Scaphold](https://scaphold.io/pricing)
+    - GraphQL Backend As A Service
+  - [Backand](https://www.backand.com/)
+    - A Worry-Free Platform for Serverless Apps
+
+## APIs
 
 > Integrate all of the things
 
+  - [Neutrino API](https://www.neutrinoapi.com/plans/)
+    - "The general-purpose API"
+  - [goo.gl](https://developers.google.com/url-shortener/)
+    - url-shortener
+  - [globalstats.io](https://globalstats.io/)
+    - "Enrich your games' experience by adding a global highscore for your games. We offer an independent, platform agnostic infrastructure for your games statistics."
+
+### Services:
+  - [PurgoMalum](http://www.purgomalum.com/)
+    - Free Profanity Filter
+  - [validator.pizza](https://www.validator.pizza/)
+    - Validator.pizza is a free API to check if an email is disposable.
+  - [MapBox](https://www.mapbox.com/)
+  - [synonyms.net](http://www.synonyms.net/synonyms_api.php)
+    - The Web's Largest Resource for Synonyms & Antonyms
+    - **STANDS4**
+
+### ~Social:
   - [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
 
-## Docs:
+### Data: 
+  - [Untappd](https://untappd.com/api/docs)
+    - Beers, Breweries, & Venues
+  - [The Open Movie Database](http://www.omdbapi.com/#usage)
+  - [Studio Ghibli API (v1.0.1)](https://ghibliapi.herokuapp.com/)
+
+### Images:
+  - [satyre](http://satyr.io/)
+    - Serve images for testing
+  - [{placekitten}](http://placekitten.com/)
+  - [The Noun Project](https://thenounproject.com/developers/)
+    - Icons for everything
+
+
+## Docs
 
 > Respect the Docs
 
 - [Slate](https://github.com/lord/slate)
 - [readthedocs.org](https://github.com/rtfd/readthedocs.org)
   - Read the Docs hosts documentation for the open source community. It supports [Sphinx][sphinx] (Python) docs written with [reStructuredText][reStructured], and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation. 
+- [GitBook](https://github.com/GitbookIO/gitbook)
 
 ## Contribute
 

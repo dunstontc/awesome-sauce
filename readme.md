@@ -7,7 +7,7 @@
 ## Contents
   - [Misc](#misc)
   - [REPLs](#repls)
-  - [CSS](#css)
+  - [Tools](#tools)
   - [Reference](#reference)
   - [Hosting](#hosting)
   - [Integration](#integration)
@@ -25,10 +25,12 @@
   - [GitBook](https://github.com/GitbookIO/gitbook)
   - [AutoDraw](https://www.autodraw.com/)
   - [glot.io](https://glot.io/)
-  - [Monaco](https://microsoft.github.io/monaco-editor/monarch.html)
+    - An open source pastebin with runnable snippets and API.
+  - [Microsoft/monaco-editor](https://microsoft.github.io/monaco-editor/monarch.html)
+  - [Monarch](https://microsoft.github.io/monaco-editor/monarch.html)
+    - Monarch: create declarative syntax highlighters using JSON
   - [Hotel](https://github.com/typicode/hotel)
-  - [DevOtter](https://devotter.com/)
-    - Free Online Developer Tools
+    - 🏩  A simple process manager for developers. Start apps from your browser and access them using local .dev domains
   - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
 
 ## REPLs
@@ -109,10 +111,12 @@
   - [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/)
   - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
 
-## CSS
+## Tools
 
 > Some of these are pretty handy
 
+  - [DevOtter](https://devotter.com/)
+    - Free Online Developer Tools
   - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
   - [SVGOMG](https://jakearchibald.github.io/svgomg/)
     - Optimize your SVGs
@@ -171,7 +175,7 @@ related or neighboring rights to this work.
 
 
 [awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[szechuan-sauce]: https://raw.githubusercontent.com/dunstontc/awesome-sauce/master/assets/sauce-2-8.png
+[szechuan-sauce]: https://raw.githubusercontent.com/dunstontc/awesome-sauce/master/assets/sauce-3.png
 [gistlyn]: http://gistlyn.com/?gist=52c37e37b51a0ec92810477be34695ae&collection=2cc6b5db6afd3ccb0d0149e55fdb3a6a
 [mermaid-1]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/c2VxdWVuY2VEaWFncmFtCkEtPj4gQjogUXVlcnkKQi0+PiBDOiBGb3J3YXJkIHF1ZXJ5Ck5vdGUgcmlnaHQgb2YgQzogVGhpbmtpbmcuLi4KQy0+PiBCOiBSZXNwb25zZQpCLT4+IEE6IEZvcndhcmQgcmVzcG9uc2UK
 [mermaid-2]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/Z3JhcGggVEQKQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpCkIgLS0+IEN7TGV0IG1lIHRoaW5rfQpDIC0tPnxPbmV8IERbTGFwdG9wXQpDIC0tPnxUd298IEVbaVBob25lXQpDIC0tPnxUaHJlZXwgRltDYXJdCg==

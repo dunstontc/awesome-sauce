@@ -34,15 +34,6 @@
   - [cash](https://github.com/dthree/cash)
     - Cross-platform Linux commands in ES6
 
-## CSS:
-
-  - [Less](http://lesscss.org/)
-    - CSS Precompiler processed with JavaScript
-    - "It's CSS, with just a little more."
-  - [Sass](http://sass-lang.com/)
-    - CSS Precompiler processed with Ruby
-    - "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
-
 ## GitHub:
 
   - [Most active GitHub users (by contributions).](https://gist.github.com/paulmillr/2657075/)

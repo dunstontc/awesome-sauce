@@ -1,16 +1,15 @@
-# Awesome Sauce [![Awesome][awesome]](https://github.com/sindresorhus/awesome)
-
 
 ![sauce][szechuan-sauce]
 
+# Awesome Sauce [![Awesome][awesome]](https://github.com/sindresorhus/awesome)
 
 ## Contents
   - [Misc](#misc)
   - [REPLs](#repls)
   - [Tools](#tools)
-  - [Reference](#reference)
-  - [Hosting](#hosting)
   - [APIs](#apis)
+  - [Hosting](#hosting)
+  - [Reference](#reference)
   - [Docs](#docs)
 
 ## Misc
@@ -131,14 +130,64 @@
     - url-shortener
   - [Pexels](https://www.pexels.com/)
     - Free stock photos
-## Reference
 
-> Good things to know
 
-  - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-  - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-  - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-  - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+## APIs
+
+> Integrate all of the things
+
+  - [Neutrino API](https://www.neutrinoapi.com/plans/)
+    - "The general-purpose API"
+  - [goo.gl](https://developers.google.com/url-shortener/)
+    - url-shortener
+  - [globalstats.io](https://globalstats.io/)
+    - "Enrich your games' experience by adding a global highscore for your games. We offer an independent, platform agnostic infrastructure for your games statistics."
+  - [Imgur API Docs](https://apidocs.imgur.com/)
+
+### Services:
+  - [PurgoMalum](http://www.purgomalum.com/)
+    - Free Profanity Filter
+  - [validator.pizza](https://www.validator.pizza/)
+    - Validator.pizza is a free API to check if an email is disposable.
+  - [MapBox](https://www.mapbox.com/)
+  - [synonyms.net](http://www.synonyms.net/synonyms_api.php)
+    - The Web's Largest Resource for Synonyms & Antonyms
+    - **STANDS4**
+  - [Barcode Database](https://upcdatabase.org/api)
+  - [Fuck Off As A Service](https://www.foaas.com/)
+  - [Robohash](https://robohash.org/)
+    - Generate unique images from any text
+  - [Random User Generator](https://randomuser.me/)
+    - "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
+
+### ~Social:
+  - [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
+
+### Data: 
+
+  - [NewsAPI](https://newsapi.org/#sources)
+    - News API can provide headlines from 70 worldwide sources
+  - [The Open Movie Database](http://www.omdbapi.com/#usage)
+  - [Studio Ghibli API (v1.0.1)](https://ghibliapi.herokuapp.com/)
+  - [ron-swanson-quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+  - [The Internet Chuck Norris Database](http://www.icndb.com/api/)
+  - [ChuckNorris.io](https://api.chucknorris.io/)
+    - "A free JSON API for hand curated Chuck Norris facts."
+  - [icanhazdadjoke](https://icanhazdadjoke.com/api)
+  - [jService](http://jservice.io/)
+    - 156,800 Trivia Questions
+  - [Pokéapi](https://pokeapi.co/)
+    - "The RESTful Pokémon API"
+  - [Untappd](https://untappd.com/api/docs)
+    - Beers, Breweries, & Venues
+  - [Random Word](http://www.setgetgo.com/randomword/)
+
+### Images:
+  - [satyre](http://satyr.io/)
+    - Serve images for testing
+  - [{placekitten}](http://placekitten.com/)
+  - [The Noun Project](https://thenounproject.com/developers/)
+    - Icons for everything
 
 ## Hosting
 
@@ -162,49 +211,44 @@
     - GraphQL Backend As A Service
   - [Backand](https://www.backand.com/)
     - A Worry-Free Platform for Serverless Apps
+    
+### Data Storage:
+  - [Box](https://www.box.com/pricing)
+    - 10GB free
+    - 100GB - $5.00/month (25,000 calls)
+    - Unlimited - $15.00/month (50,000 calls)
+  - [DropBox](https://www.dropbox.com/plans?trigger=nr)
+    - 2GB free
+    - 1TB - $8.25/month (25,000 calls)
+    - 2TB - $12.50/month (25,000 calls)
+  - [GoogleDrive](https://www.google.com/drive/pricing/)
+    - 15GB free (1 Million calls per day?)
+    - 100GB - $2.00/month
+    - 1TB   - $10.00/month 
+  - [OneDrive](https://onedrive.live.com/about/en-US/plans/)
+    - 5GB free
+    - 50GB  - $2.00/month
+  - [AmazonS3]()
 
-## APIs
+### DNS:
+  - [NameCheap](https://www.namecheap.com/)
+  - [Name.com](https://www.name.com/domain/search)
+  - [GoDaddy](https://www.godaddy.com/)
 
-> Integrate all of the things
+## Reference
 
-  - [Neutrino API](https://www.neutrinoapi.com/plans/)
-    - "The general-purpose API"
-  - [goo.gl](https://developers.google.com/url-shortener/)
-    - url-shortener
-  - [globalstats.io](https://globalstats.io/)
-    - "Enrich your games' experience by adding a global highscore for your games. We offer an independent, platform agnostic infrastructure for your games statistics."
+> Good things to know
 
-### Services:
-  - [PurgoMalum](http://www.purgomalum.com/)
-    - Free Profanity Filter
-  - [validator.pizza](https://www.validator.pizza/)
-    - Validator.pizza is a free API to check if an email is disposable.
-  - [MapBox](https://www.mapbox.com/)
-  - [synonyms.net](http://www.synonyms.net/synonyms_api.php)
-    - The Web's Largest Resource for Synonyms & Antonyms
-    - **STANDS4**
-
-### ~Social:
-  - [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
-
-### Data: 
-  - [Untappd](https://untappd.com/api/docs)
-    - Beers, Breweries, & Venues
-  - [The Open Movie Database](http://www.omdbapi.com/#usage)
-  - [Studio Ghibli API (v1.0.1)](https://ghibliapi.herokuapp.com/)
-
-### Images:
-  - [satyre](http://satyr.io/)
-    - Serve images for testing
-  - [{placekitten}](http://placekitten.com/)
-  - [The Noun Project](https://thenounproject.com/developers/)
-    - Icons for everything
-
+  - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+  - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+  - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+  - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
 ## Docs
 
 > Respect the Docs
 
+- [JSDoc](http://usejsdoc.org/)
 - [Slate](https://github.com/lord/slate)
 - [readthedocs.org](https://github.com/rtfd/readthedocs.org)
   - Read the Docs hosts documentation for the open source community. It supports [Sphinx][sphinx] (Python) docs written with [reStructuredText][reStructured], and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation. 

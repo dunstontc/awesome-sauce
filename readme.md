@@ -1,3 +1,9 @@
+<style>
+ul > li > ul > li {
+  list-style-type: none !important;
+}
+</style>
+
 
 <div align="center">
   <h1> Awesome Sauce &nbsp;
@@ -36,8 +42,7 @@
   - [Rust (official)](https://play.rust-lang.org/)
   - [Rust Playground (interger32)](https://play.integer32.com/)
   - [gistlyn][gistlyn]
-    - Gistlyn - a C# Gist IDE powered by Roslyn
-    - Maintain C# snippets in your Github Gists
+    - C# Gist IDE powered by Roslyn "Maintain C# snippets in your Github Gists"
   - [SQL Fiddle](http://sqlfiddle.com/)
   - [Typescript Playground](http://www.typescriptlang.org/play/index.html)
 
@@ -70,7 +75,7 @@
 
 ### CSS:
   - [Sassmeister](https://www.sassmeister.com/)
-    - [Sass.js](http://sass.js.org/) (libsass)
+  - [Sass.js](http://sass.js.org/) (libsass)
   - [cssnext Playground](http://cssnext.io/playground/)
   - [Pleeease Playground](http://pleeease.io/play/)
     - CSS Postprocessor
@@ -101,6 +106,7 @@
   - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
   - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
 
+<br/><br/>
 ## Tools
 
 > Some of these are pretty handy
@@ -123,6 +129,7 @@
   - [SpinStroke](https://lichin.me/spinStroke/)
     - SVG animation gui
 
+<br/><br/>
 ## APIs
 
 > Integrate all of the things
@@ -151,7 +158,7 @@
   - [Random User Generator](https://randomuser.me/)
     - "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
 
-### ~Social:
+### Social:
   - [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
   - [Tumblr](https://www.tumblr.com/docs/en/api/v2)
   - [Twitter](https://dev.twitter.com/)
@@ -182,6 +189,7 @@
   - [The Noun Project](https://thenounproject.com/developers/)
     - Icons for everything
 
+<br/><br/>
 ## Hosting
 
 > Host your code online.  Most of these have free options. 
@@ -260,6 +268,7 @@
   - [Name.com](https://www.name.com/domain/search)
   - [GoDaddy](https://www.godaddy.com/)
 
+<br/><br/>
 ## Reference
 
 > Good things to know
@@ -271,6 +280,7 @@
   - [Most active GitHub users (by contributions).](https://gist.github.com/paulmillr/2657075/)
   - [Most forked Repos](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
 
+<br/><br/>
 ## Docs
 
 > Respect the Docs
@@ -281,6 +291,7 @@
   - Read the Docs hosts documentation for the open source community. It supports [Sphinx][sphinx] (Python) docs written with [reStructuredText][reStructured], and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation. 
 - [GitBook](https://github.com/GitbookIO/gitbook)
 
+<br/><br/>
 ## JavaScript
 
 > &nbsp;
@@ -298,17 +309,18 @@
 ### Libraries:
   - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
 
-
+<br/><br/>
 ## Markdown
 
 > #1 Utility
 
   - [marked](https://github.com/chjj/marked)
     - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
-  -  [remark](http://remark.js.org/) [:octocat:](https://github.com/wooorm/remark)
+  -  [remark](https://github.com/wooorm/remark)
     - Markdown processor powered by plugins
   - [tidy-markdown](https://github.com/slang800/tidy-markdown)
 
+<br/><br/>
 ## Misc
 
 > These are on my todo list, I'll sort them at some point.
@@ -332,7 +344,7 @@
     - Email Service
   - [Semver](https://docs.npmjs.com/misc/semver)
 
-
+<br/><br/>
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

@@ -1,10 +1,3 @@
-<style>
-ul > li > ul > li {
-  list-style-type: none !important;
-}
-</style>
-
-
 <div align="center">
   <h1> Awesome Sauce &nbsp;
     <a href="https://github.com/sindresorhus/awesome">
@@ -363,3 +356,5 @@ related or neighboring rights to this work.
 [mermaid-2]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/Z3JhcGggVEQKQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpCkIgLS0+IEN7TGV0IG1lIHRoaW5rfQpDIC0tPnxPbmV8IERbTGFwdG9wXQpDIC0tPnxUd298IEVbaVBob25lXQpDIC0tPnxUaHJlZXwgRltDYXJdCg==
 [sphinx]: http://www.sphinx-doc.org/en/stable/
 [reStructured]: http://www.sphinx-doc.org/en/stable/rest.html
+
+<style>ul > li > ul > li {list-style-type: none !important;}</style>

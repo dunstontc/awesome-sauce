@@ -1,14 +1,6 @@
 # Awesome Everything &nbsp; [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## Awesome:
-
-  - [awesome](https://github.com/sindresorhus/awesome)
-    - 😎 Curated list of awesome lists
-    - [Yeoman generator for GitHub awesome lists 😎](https://github.com/dar5hak/generator-awesome-list)
-  - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
-  - [awesome-nodejs](awesome-nodejs)
-  - [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 
 ## Atom:
 
@@ -20,23 +12,6 @@
   - [modular-keymaps](https://github.com/danielbayley/atom-modular-keymaps)
   - [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
   - [project-manager](https://github.com/danielbrodin/atom-project-manager)
-
-## CLI:
-
-  - [liftoff](https://www.npmjs.com/package/liftoff)
-    - Launch your command line tool with ease.
-  - [vorpal](http://vorpal.js.org/)
-    - Node's framework for interactive CLIs.
-  - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-    - A collection of common interactive command line user interfaces.
-  - [commander.js](https://github.com/tj/commander.js)
-    - node.js command-line interfaces made easy
-  - [cash](https://github.com/dthree/cash)
-    - Cross-platform Linux commands in ES6
-
-## GitHub:
-
-  - [Most active GitHub users (by contributions).](https://gist.github.com/paulmillr/2657075/)
 
 ## Gulp:
 
@@ -81,18 +56,6 @@
   - [gulp-yaml](https://www.npmjs.com/package/gulp-yaml)
     - A Gulp plugin to convert YAML to JSON using js-yaml.
 
-## JavaScript:
-  - [Babel](https://babeljs.io/)
-    - Compile ES6+ JavaScript to ES5.
-  - [Electron]()
-  - **Linting:**
-  - [standard](https://github.com/standard/standard)
-    - JavaScript style guide, with linter & automatic code fixer
-  - [xo](https://github.com/sindresorhus/xo)
-    - ❤️ JavaScript happiness style linter
-  - **Util:**
-    - [string.js](http://stringjs.com/)
-      - Extra JavaScript string methods.
 
 ## JSON:
 
@@ -101,16 +64,6 @@
     - [gulp-strip-json-comments](https://github.com/sindresorhus/gulp-strip-json-comments)
     - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)
 
-## Markdown:
-
-  - [marked](https://github.com/chjj/marked)
-    - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
-  - [tocdoc](https://github.com/thlorenz/doctoc)
-    - Generates table of contents for markdown files inside local git repository.
-
-  - Parsers:
-    - remark [website](http://remark.js.org/) [(github)](https://github.com/wooorm/remark)
-      - Markdown processor powered by plugins
 
 
   - Beautify:

@@ -1,7 +1,13 @@
 
 ![sauce][szechuan-sauce]
 
-# Awesome Sauce [![Awesome][awesome]](https://github.com/sindresorhus/awesome)
+<div align="center">
+  <h1> Awesome Sauce &nbsp;
+    <a href="https://github.com/sindresorhus/awesome">
+      <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/>
+    </a>
+  </h1>
+</div>
 
 ## Contents
   - [Misc](#misc)
@@ -11,6 +17,8 @@
   - [Hosting](#hosting)
   - [Reference](#reference)
   - [Docs](#docs)
+  - [JavaScript](#javascript)
+  - [Markdown](#markdown)
 
 ## Misc
 
@@ -31,9 +39,9 @@
     - Monarch: create declarative syntax highlighters using JSON
   - [Hotel](https://github.com/typicode/hotel)
     - 🏩  A simple process manager for developers. Start apps from your browser and access them using local .dev domains
-  - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
   - [sparkpost](https://www.sparkpost.com/pricing/#developer-plan)
     - Email Service
+  - [Semver](https://docs.npmjs.com/misc/semver)
 
 ## REPLs
 
@@ -257,13 +265,10 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="Cloudinary">Cloudinary</a></td>
+    <td><a href="http://cloudinary.com/pricing">Cloudinary</a></td>
     <td> 75,000 imgs, 2 GB <br> 1 Million imgs, 15 GB </td>
     <td> Free <br> $50</td>
-    <td>
-       5 GB Viewing Bandwidth /month <br>
-       50 GB Viewing Bandwidth /month 
-    </td>
+    <td> 5 GB Viewing Bandwidth /month <br> 50 GB Viewing Bandwidth /month  </td>
   </tr>
 </table>
 
@@ -284,6 +289,8 @@
   - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
   - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
   - [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+  - [Most active GitHub users (by contributions).](https://gist.github.com/paulmillr/2657075/)
+  - [Most forked Repos](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
 
 ## Docs
 
@@ -294,6 +301,30 @@
 - [readthedocs.org](https://github.com/rtfd/readthedocs.org)
   - Read the Docs hosts documentation for the open source community. It supports [Sphinx][sphinx] (Python) docs written with [reStructuredText][reStructured], and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation. 
 - [GitBook](https://github.com/GitbookIO/gitbook)
+
+## JavaScript
+
+### CLIs & Node
+  - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+    - A collection of common interactive command line user interfaces.
+  - [commander.js](https://github.com/tj/commander.js)
+    - node.js command-line interfaces made easy
+  - [vorpal](https://github.com/dthree/vorpal)
+    - Node's framework for interactive CLIs.
+  - [liftoff](https://github.com/js-cli/js-liftoff)
+    - Launch your command line tool with ease.
+
+### Libraries:
+  - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
+
+
+## Markdown
+  - [marked](https://github.com/chjj/marked)
+    - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+  -  [remark](http://remark.js.org/) [:octocat:](https://github.com/wooorm/remark)
+    - Markdown processor powered by plugins
+  - [tidy-markdown](https://github.com/slang800/tidy-markdown)
+
 
 ## Contribute
 
@@ -307,7 +338,6 @@ To the extent possible under law, Clay Dunston has waived all copyright and
 related or neighboring rights to this work.
 
 
-[awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [szechuan-sauce]: https://raw.githubusercontent.com/dunstontc/awesome-sauce/master/assets/sauce-3.png
 [gistlyn]: http://gistlyn.com/?gist=52c37e37b51a0ec92810477be34695ae&collection=2cc6b5db6afd3ccb0d0149e55fdb3a6a
 [mermaid-1]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/c2VxdWVuY2VEaWFncmFtCkEtPj4gQjogUXVlcnkKQi0+PiBDOiBGb3J3YXJkIHF1ZXJ5Ck5vdGUgcmlnaHQgb2YgQzogVGhpbmtpbmcuLi4KQy0+PiBCOiBSZXNwb25zZQpCLT4+IEE6IEZvcndhcmQgcmVzcG9uc2UK

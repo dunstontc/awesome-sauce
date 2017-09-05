@@ -1,6 +1,4 @@
 
-![sauce][szechuan-sauce]
-
 <div align="center">
   <h1> Awesome Sauce &nbsp;
     <a href="https://github.com/sindresorhus/awesome">
@@ -9,8 +7,10 @@
   </h1>
 </div>
 
+![sauce][szechuan-sauce]
+
 ## Contents
-  - [Misc](#misc)
+
   - [REPLs](#repls)
   - [Tools](#tools)
   - [APIs](#apis)
@@ -19,30 +19,9 @@
   - [Docs](#docs)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
+  - [Misc](#misc)
 
-## Misc
-
-> These are on my todo list, I'll sort them at some point.
-
-  - [Awesome Lists](https://github.com/sindresorhus/awesome)
-  - [free-for-dev](https://github.com/ripienaar/free-for-dev)
-    - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-  - [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
-  - [Google Open Source](https://opensource.google.com/)
-  - [Django Girls](https://tutorial.djangogirls.org/en/index.html)
-  - [AutoDraw](https://www.autodraw.com/)
-    - [chrome/autodraw](https://experiments.withgoogle.com/chrome/autodraw)
-  - [glot.io](https://glot.io/)
-    - An open source pastebin with runnable snippets and API.
-  - [Microsoft/monaco-editor](https://microsoft.github.io/monaco-editor/monarch.html)
-  - [Monarch](https://microsoft.github.io/monaco-editor/monarch.html)
-    - Monarch: create declarative syntax highlighters using JSON
-  - [Hotel](https://github.com/typicode/hotel)
-    - 🏩  A simple process manager for developers. Start apps from your browser and access them using local .dev domains
-  - [sparkpost](https://www.sparkpost.com/pricing/#developer-plan)
-    - Email Service
-  - [Semver](https://docs.npmjs.com/misc/semver)
-
+<br/><br/>
 ## REPLs
 
 > Write code online, run code online.
@@ -250,25 +229,25 @@
     <td><a href="https://www.google.com/drive/pricing/">Google Drive</a></td>
     <td> Free  <br> $2     <br> $10  </td>
     <td> 15 GB <br> 100 GB <br> 1 TB </td>
-    <td>1 Million calls per day </td>
+    <td> 1 Million calls per day </td>
   </tr>
   <tr>
     <td><a href="https://onedrive.live.com/about/en-US/plans/">OneDrive</a></td>
-    <td> Free <br> $2/month </td>
-    <td> 5 GB <br> 50 GB    </td>
+    <td> Free <br> $2    </td>
+    <td> 5 GB <br> 50 GB </td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/s3/pricing/">Amazon S3</a></td>
-    <td></td>
-    <td> Flexible </td>
-    <td></td>
+    <td> Free Trial <br>  </td>
+    <td> 5 GB       <br>  </td>
+    <td> 15 GB Transfer per month< /td>
   </tr>
   <tr>
     <td><a href="http://cloudinary.com/pricing">Cloudinary</a></td>
     <td> 75,000 imgs, 2 GB <br> 1 Million imgs, 15 GB </td>
     <td> Free <br> $50</td>
-    <td> 5 GB Viewing Bandwidth /month <br> 50 GB Viewing Bandwidth /month  </td>
+    <td> 5 GB Viewing Bandwidth per month <br> 50 GB Viewing Bandwidth per month  </td>
   </tr>
 </table>
 
@@ -304,6 +283,8 @@
 
 ## JavaScript
 
+> &nbsp;
+
 ### CLIs & Node
   - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
     - A collection of common interactive command line user interfaces.
@@ -319,11 +300,37 @@
 
 
 ## Markdown
+
+> #1 Utility
+
   - [marked](https://github.com/chjj/marked)
     - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
   -  [remark](http://remark.js.org/) [:octocat:](https://github.com/wooorm/remark)
     - Markdown processor powered by plugins
   - [tidy-markdown](https://github.com/slang800/tidy-markdown)
+
+## Misc
+
+> These are on my todo list, I'll sort them at some point.
+
+  - [Awesome Lists](https://github.com/sindresorhus/awesome)
+  - [free-for-dev](https://github.com/ripienaar/free-for-dev)
+    - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+  - [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+  - [Google Open Source](https://opensource.google.com/)
+  - [Django Girls](https://tutorial.djangogirls.org/en/index.html)
+  - [AutoDraw](https://www.autodraw.com/)
+    - [chrome/autodraw](https://experiments.withgoogle.com/chrome/autodraw)
+  - [glot.io](https://glot.io/)
+    - An open source pastebin with runnable snippets and API.
+  - [Microsoft/monaco-editor](https://microsoft.github.io/monaco-editor/monarch.html)
+  - [Monarch](https://microsoft.github.io/monaco-editor/monarch.html)
+    - Monarch: create declarative syntax highlighters using JSON
+  - [Hotel](https://github.com/typicode/hotel)
+    - 🏩  A simple process manager for developers. Start apps from your browser and access them using local .dev domains
+  - [sparkpost](https://www.sparkpost.com/pricing/#developer-plan)
+    - Email Service
+  - [Semver](https://docs.npmjs.com/misc/semver)
 
 
 ## Contribute

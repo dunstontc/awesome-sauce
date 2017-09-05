@@ -121,16 +121,20 @@
   - [DevOtter](https://devotter.com/)
     - Free Online Developer Tools
   - [Icons for everything](https://thenounproject.com/)
-  - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
-  - [SVGOMG](https://jakearchibald.github.io/svgomg/)
-    - Optimize your SVGs
-  - [Vivus Instant](https://maxwellito.github.io/vivus-instant/)
-    - SVG drawing animation
   - [goo.gl](https://developers.google.com/url-shortener/)
     - url-shortener
   - [Pexels](https://www.pexels.com/)
     - Free stock photos
 
+
+### CSS:
+  - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
+  - [SVGOMG](https://jakearchibald.github.io/svgomg/)
+    - Optimize your SVGs
+  - [Vivus Instant](https://maxwellito.github.io/vivus-instant/)
+    - SVG drawing animation
+  - [SpinStroke](https://lichin.me/spinStroke/)
+    - SVG animation gui
 
 ## APIs
 
@@ -162,6 +166,8 @@
 
 ### ~Social:
   - [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
+  - [Tumblr](https://www.tumblr.com/docs/en/api/v2)
+  - [Twitter](https://dev.twitter.com/)
 
 ### Data: 
 
@@ -212,23 +218,58 @@
   - [Backand](https://www.backand.com/)
     - A Worry-Free Platform for Serverless Apps
     
-### Data Storage:
-  - [Box](https://www.box.com/pricing)
-    - 10GB free
-    - 100GB - $5.00/month (25,000 calls)
-    - Unlimited - $15.00/month (50,000 calls)
-  - [DropBox](https://www.dropbox.com/plans?trigger=nr)
-    - 2GB free
-    - 1TB - $8.25/month (25,000 calls)
-    - 2TB - $12.50/month (25,000 calls)
-  - [GoogleDrive](https://www.google.com/drive/pricing/)
-    - 15GB free (1 Million calls per day?)
-    - 100GB - $2.00/month
-    - 1TB   - $10.00/month 
-  - [OneDrive](https://onedrive.live.com/about/en-US/plans/)
-    - 5GB free
-    - 50GB  - $2.00/month
-  - [AmazonS3]()
+### Storage:
+<table>
+  <tr>
+    <th> Service         </th>
+    <th> Prices          </th>
+    <th> Plans           </th>
+    <th> API Call Limits </th>
+  </tr>
+  <tr>
+    <td><a href="https://www.box.com/pricing">Box</a></td>
+    <td> Free  <br> $5     <br> $15       </td>
+    <td> 10 GB <br> 100 GB <br> Unlimited </td>
+    <td> 25,000 calls per month <br> 50,000 calls per month <br> 50,000 calls per month </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.dropbox.com/plans?trigger=nr">DropBox</a></td>
+    <td> Free <br> $8.25 <br> $12.50 </td>
+    <td> 2 GB <br> 1 TB  <br> 2 TB   </td>
+    <td> 25,000 calls per month </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.google.com/drive/pricing/">Google Drive</a></td>
+    <td> Free  <br> $2     <br> $10  </td>
+    <td> 15 GB <br> 100 GB <br> 1 TB </td>
+    <td>1 Million calls per day </td>
+  </tr>
+  <tr>
+    <td><a href="https://onedrive.live.com/about/en-US/plans/">OneDrive</a></td>
+    <td> Free <br> $2/month </td>
+    <td> 5 GB <br> 50 GB    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/s3/pricing/">Amazon S3</a></td>
+    <td></td>
+    <td> Flexible </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="Cloudinary">Cloudinary</a></td>
+    <td> 75,000 imgs, 2 GB <br> 1 Million imgs, 15 GB </td>
+    <td> Free <br> $50</td>
+    <td>
+       5 GB Viewing Bandwidth /month <br>
+       50 GB Viewing Bandwidth /month 
+    </td>
+  </tr>
+</table>
+
+### Image Hosting:
+  - [ospry](https://ospry.io/)
+  - [Imgur API Docs](https://apidocs.imgur.com/)
 
 ### DNS:
   - [NameCheap](https://www.namecheap.com/)

@@ -350,7 +350,7 @@ To the extent possible under law, Clay Dunston has waived all copyright and
 related or neighboring rights to this work.
 
 
-[szechuan-sauce]: https://raw.githubusercontent.com/dunstontc/awesome-sauce/master/assets/sauce-3.png
+[szechuan-sauce]: https://raw.githubusercontent.com/dunstontc/awesome-sauce/master/assets/sauce-6.png
 [gistlyn]: http://gistlyn.com/?gist=52c37e37b51a0ec92810477be34695ae&collection=2cc6b5db6afd3ccb0d0149e55fdb3a6a
 [mermaid-1]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/c2VxdWVuY2VEaWFncmFtCkEtPj4gQjogUXVlcnkKQi0+PiBDOiBGb3J3YXJkIHF1ZXJ5Ck5vdGUgcmlnaHQgb2YgQzogVGhpbmtpbmcuLi4KQy0+PiBCOiBSZXNwb25zZQpCLT4+IEE6IEZvcndhcmQgcmVzcG9uc2UK
 [mermaid-2]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/Z3JhcGggVEQKQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpCkIgLS0+IEN7TGV0IG1lIHRoaW5rfQpDIC0tPnxPbmV8IERbTGFwdG9wXQpDIC0tPnxUd298IEVbaVBob25lXQpDIC0tPnxUaHJlZXwgRltDYXJdCg==

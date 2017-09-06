@@ -52,7 +52,7 @@
     - Source code on GitHub
 
 
-### JavaScript:
+### JS:
   - [Babel repl](http://babeljs.io/repl/)
   - [ES6 Console](https://es6console.com/)
   - [Ramda repl](http://ramdajs.com/repl/?v=0.22.1)
@@ -85,7 +85,7 @@
     - "Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently"
 
 
-### Markdown:
+### MD:
   - [dillinger](http://dillinger.io/)
   - [markdown-it demo](https://markdown-it.github.io/)
     - "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed"
@@ -279,6 +279,7 @@
 > Respect the Docs
 
 - [JSDoc](http://usejsdoc.org/)
+- [apiDoc](https://github.com/apidoc/apidoc)
 - [Slate](https://github.com/lord/slate)
 - [readthedocs.org](https://github.com/rtfd/readthedocs.org)
   - Read the Docs hosts documentation for the open source community. It supports [Sphinx][sphinx] (Python) docs written with [reStructuredText][reStructured], and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation. 

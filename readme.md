@@ -290,6 +290,11 @@
 
 > &nbsp;
 
+- [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/#commas--dangling)
+  - A mostly reasonable approach to JavaScript
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+
 ### CLIs & Node
   - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
     - A collection of common interactive command line user interfaces.
@@ -302,6 +307,9 @@
 
 ### Libraries:
   - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
+
+### Tools
+  - [JS Beautifier](https://github.com/beautify-web/js-beautify)
 
 <br/><br/>
 ## Markdown
@@ -337,7 +345,35 @@
   - [sparkpost](https://www.sparkpost.com/pricing/#developer-plan)
     - Email Service
   - [Semver](https://docs.npmjs.com/misc/semver)
+  - [click_](http://click.pocoo.org/5/)
+    - Python package for creating CLIs
 
+### Open Source:
+  - [Adobe](http://adobe.github.io/) 
+  - [IBM](https://github.com/IBM)
+  - [Microsoft](https://opensource.microsoft.com/)
+  - [Netflix](https://github.com/netflix)
+  - [Square](http://square.github.io/)
+  <!-- - [Yelp](https://yelp.github.io/) -->
+  - [Shopify](http://shopify.github.io/)
+  - [mysql/mysql-server](https://github.com/mysql/mysql-server)
+  - [reddit/reddit](https://github.com/reddit/reddit) - the code that powers reddit.com
+  - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+  - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
+  - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
+    - Members of the United States Congress, 1789-Present, in YAML, as well as committees, presidents, and vice presidents.
+
+### Frameworks:
+  - [meteor (javascript)](https://github.com/meteor/meteor)
+  - [flask (py)](https://github.com/pallets/flask)
+  - [django (py)](https://github.com/django/django)
+  - [frappe (py)](https://github.com/frappe/frappe)
+  - [nancy (c#)](https://github.com/NancyFx/Nancy)
+  - [laravel (php)](https://github.com/laravel/laravel)
+  - [cakephp (php)](https://github.com/cakephp/cakephp)
+  - [symphony (php)](https://github.com/symfony/symfony)
+  - [revel (go)](https://github.com/revel/revel)
+  - [spring (java)](https://github.com/spring-projects/spring-framework)
 <br/><br/>
 ## Contribute
 

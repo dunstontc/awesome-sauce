@@ -91,10 +91,12 @@
   - [The Noun Project](https://thenounproject.com/) - *"Icons for everything"*
   - [Pexels](https://www.pexels.com/) - *(free stock photos)*
   - [Unsplash](https://unsplash.com/) - *"Beautiful free photos"*
+  - [lunicode](https://lunicode.com/bigtext) *text to ascii*
 
 
 ### CSS:
   - [W3 Color Mixer](https://www.w3schools.com/colors/colors_mixer.asp)
+  - [Color Codes](http://www.rapidtables.com/web/color/html-color-codes.htm)
   - [SVGOMG](https://jakearchibald.github.io/svgomg/) - *Optimize your SVGs*
   - [Vivus Instant](https://maxwellito.github.io/vivus-instant/) - *(SVG drawing animation)*
   - [SpinStroke](https://lichin.me/spinStroke/) - *(SVG animation gui)*
@@ -205,6 +207,12 @@
     <td> 15 GB Transfer per month< /td>
   </tr>
   <tr>
+    <td><a href="https://www.backblaze.com/b2/cloud-storage-pricing.html">Backblaze</a></td>
+    <td> Free  <br> $0.005 per GB/month </td>
+    <td> 10 GB <br> &nbsp; </td>
+    <td> 15 GB Transfer per month< /td>
+  </tr>
+  <tr>
     <td><a href="http://cloudinary.com/pricing">Cloudinary</a></td>
     <td> 75,000 imgs, 2 GB <br> 1 Million imgs, 15 GB </td>
     <td> Free <br> $50</td>
@@ -268,9 +276,13 @@
 
 ### Libraries:
   - [CodeMirror](http://codemirror.net/doc/manual.html#modeapi)
+  - [Highlight.js](https://highlightjs.org/)
+  - [image-to-ascii (node)](https://github.com/IonicaBizau/image-to-ascii)
 
 ### Tools
   - [JS Beautifier](https://github.com/beautify-web/js-beautify)
+  - Testing:
+    - [Nightwatch](https://github.com/nightwatchjs/nightwatch)
 
 <br/><br/>
 ## Markdown
@@ -312,6 +324,9 @@
   - [Semver](https://docs.npmjs.com/misc/semver)
   - [click_](http://click.pocoo.org/5/)
     - Python package for creating CLIs
+  - [StagicGen](https://www.staticgen.com/)  
+    - Top Open-Source Static Site Generators
+
 
 ### Open Source:
   - [Adobe](http://adobe.github.io/) 
@@ -335,6 +350,7 @@
   - [Matt Bierner (mjbvz)](https://github.com/mjbvz)
   - [TJ Holowaychuk (tj)](https://github.com/tj)
   - [Evan You (yyx990803)](https://github.com/yyx990803)
+  - [William Wong (compulim)](https://github.com/compulim)
 
 ### Frameworks:
   - [meteor (javascript)](https://github.com/meteor/meteor)
@@ -348,7 +364,21 @@
   - [zend (php)](https://framework.zend.com/)
   - [revel (go)](https://github.com/revel/revel)
   - [spring (java)](https://github.com/spring-projects/spring-framework)
-  
+
+### Editors:
+  - VS Code:
+    - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+    - [filesize](https://github.com/mkxml/vscode-filesize)
+    - [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=Compulim.vscode-clock)    
+    - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+    - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+    - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)    
+    - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+    - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+    - [Template Literal Editor](https://marketplace.visualstudio.com/items?itemName=plievone.vscode-template-literal-editor)
+    - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+    - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 <br/><br/>
 
 ## Contribute

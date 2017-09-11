@@ -11,14 +11,37 @@
 ## Contents
 
   - [REPLs](#repls)
+    - Everything
+    - Assorted
+    - Html, CSS, & JavaScript
+    - JavaScript
+    - CSS
+    - Linting & Formatting
+    - Markdown
+    - APIs
   - [Tools](#tools)
   - [APIs](#apis)
+    - Services
+    - Social
+    - Data
+    - Images
   - [Hosting](#hosting)
+    - Sites
+    - Services
+    - Storage
+    - Image Hosting
+    - DNS
   - [Reference](#reference)
   - [Docs](#docs)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
   - [Misc](#misc)
+    - Misc.
+    - Open Source
+    - Cool People
+    - Frameworks
+    - ~~Text~~ Editors
+    - Specifications
 
 <br/><br/>
 ## REPLs
@@ -81,6 +104,8 @@
   - [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/)
   - [GitHub GraphQL API Explorer](https://developer.github.com/v4/explorer/)
   - [Google APIs Explorer](https://developers.google.com/apis-explorer/#p/)
+  - [Twitter API Console](https://dev.twitter.com/rest/tools/console)
+  - [Tumblr API Console](https://api.tumblr.com/console/calls/user/info)
 
 <br/><br/>
 ## Tools
@@ -380,6 +405,11 @@
     - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
     - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 <br/><br/>
+
+
+### Specs:
+  - [fetch](https://fetch.spec.whatwg.org/) 
+
 
 ## Contribute
 

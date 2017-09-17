@@ -35,6 +35,7 @@
   - [Docs](#docs)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
+  - [Command Line]()
   - [Misc](#misc)
     - Misc.
     - Open Source
@@ -325,6 +326,13 @@
     - [Also Mermaid][mermaid-2]
 
 <br/><br/>
+## Command Line
+  - [iTerm2]()
+    - [themes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+  - [fzf](https://github.com/junegunn/fzf)
+  - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+<br/><br/>
 ## Misc
 
 > These are on my todo list, I'll sort them at some point.
@@ -368,7 +376,7 @@
   - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
     - Members of the United States Congress, 1789-Present, in YAML, as well as committees, presidents, and vice presidents.
 
-### Cool people doing Cool thigns:
+### Cool people doing Cool things:
   - [Sindre Sorhus (sindresorhus)](https://github.com/sindresorhus)
   - [Addy Osmani (addyosmani)](https://github.com/addyosmani)
   - [Rob Dodson (robdodson)](https://github.com/robdodson)

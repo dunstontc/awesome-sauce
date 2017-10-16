@@ -35,7 +35,7 @@
   - [Docs](#docs)
   - [JavaScript](#javascript)
   - [Markdown](#markdown)
-  - [Command Line]()
+  - [Command Line](#cli)
   - [Misc](#misc)
     - Misc.
     - Open Source
@@ -61,6 +61,7 @@
   - [Gistlyn][gistlyn] - *(C# Gist IDE powered by Roslyn)*
   - [SQL Fiddle](http://sqlfiddle.com/)
   - [Typescript Playground](http://www.typescriptlang.org/play/index.html)
+  - [CPP](http://cpp.sh/)
 
 
 ### HTML, CSS, and JavaScript:
@@ -118,6 +119,7 @@
   - [Pexels](https://www.pexels.com/) - *(free stock photos)*
   - [Unsplash](https://unsplash.com/) - *"Beautiful free photos"*
   - [lunicode](https://lunicode.com/bigtext) *text to ascii*
+  - [strftime](http://strftime.net/) *format time strings*
 
 
 ### CSS:
@@ -260,6 +262,7 @@
 
 > Good things to know
 
+  - [Full Emoji List, v5.0 (Unicode)](http://www.unicode.org/emoji/charts/full-emoji-list.html)
   - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
   - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
   - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
@@ -327,10 +330,16 @@
 
 <br/><br/>
 ## Command Line
-  - [iTerm2]()
-    - [themes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+  - Emulators  
+    - [iTerm2](https://github.com/gnachman/iTerm2)
+      - [themes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+    - [black-screen](http://https://github.com/railsware/upterm)
+      - *Term for people who don't know how to use a term.* Cool though
   - [fzf](https://github.com/junegunn/fzf)
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+    - [spaceship](https://github.com/denysdovhan/spaceship-zsh-theme)
+    - [bullet-train](https://github.com/caiogondim/bullet-train.zsh)
+  - [terminalsaresexy](link_i://terminalsare.sexy/)
 
 <br/><br/>
 ## Misc
@@ -359,6 +368,7 @@
     - Python package for creating CLIs
   - [StagicGen](https://www.staticgen.com/)  
     - Top Open-Source Static Site Generators
+  - [formulae](http://formulae.brew.sh/)
 
 
 ### Open Source:
@@ -377,13 +387,15 @@
     - Members of the United States Congress, 1789-Present, in YAML, as well as committees, presidents, and vice presidents.
 
 ### Cool people doing Cool things:
+  - [egoist (exoist)](https://github.com/egoist)
+  - [Matt Bierner (mjbvz)](https://github.com/mjbvz)
+  - [William Wong (compulim)](https://github.com/compulim)
   - [Sindre Sorhus (sindresorhus)](https://github.com/sindresorhus)
   - [Addy Osmani (addyosmani)](https://github.com/addyosmani)
   - [Rob Dodson (robdodson)](https://github.com/robdodson)
-  - [Matt Bierner (mjbvz)](https://github.com/mjbvz)
-  - [TJ Holowaychuk (tj)](https://github.com/tj)
   - [Evan You (yyx990803)](https://github.com/yyx990803)
-  - [William Wong (compulim)](https://github.com/compulim)
+  - [TJ Holowaychuk (tj)](https://github.com/tj)
+  - [Wes Bos (wesbos)](https://github.com/wesbos)
 
 ### Frameworks:
   - [meteor (javascript)](https://github.com/meteor/meteor)
@@ -417,6 +429,8 @@
 
 ### Specs:
   - [fetch](https://fetch.spec.whatwg.org/) 
+  - [The JSON Data Interchange Format (ECMA-404)](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+  - [🦑](https://web.archive.org/web/20130602043840/http://codethulu.org/)
 
 
 ## Contribute
